@@ -1,0 +1,30 @@
+{
+  "name": "pubsub",
+  "version": "1.0.0",
+  "description": "Node module for a Publish/Subscribe",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ducreyna/node-pubsub.git"
+  },
+  "keywords": [
+    "node",
+    "pubsub"
+  ],
+  "author": "Nathan Ducrey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ducreyna/node-pubsub/issues"
+  },
+  "homepage": "https://github.com/ducreyna/node-pubsub",
+  "devDependencies": {
+    "jshint": "^2.6.0",
+    "mocha": "^2.1.0"
+  }
+}
